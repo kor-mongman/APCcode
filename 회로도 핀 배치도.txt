@@ -3,12 +3,12 @@ D0:
 D1:
 D2: 블루투스 TXD
 D3: 블루투스 RXD
-D4:
-D5:
-D6:
-D7:
-D8:
-D9:
+D4: 지문인식 TXD
+D5: 지문인식 RXD
+D6: Button 
+D7: LED green
+D8: LED yellow
+D9: LED red
 D10: 모터 드라이버 IN4
 D11: 모터 드라이버 IN3
 D12: 모터 드라이버 IN2
