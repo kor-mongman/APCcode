@@ -7,10 +7,10 @@
 #define Voltage_Resolution      (5)
 #define ADC_Bit_Resolution      (10) // For arduino UNO/MEGA/NANO
 #define RatioMQ3CleanAir        (60) //RS / R0 = 60 ppm
-#define button 6
-#define green 7
-#define yellow 8
-#define red 9
+#define button 2
+#define green 3
+#define yellow 4
+#define red 5
 #define IN1 11
 #define IN2 10
 #define IN3 12
