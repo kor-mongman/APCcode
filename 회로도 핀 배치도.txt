@@ -1,14 +1,14 @@
 [디지털 입출력 핀]
 D0:
 D1:
-D2:
-D3:
-D4: 
-D5: 
-D6: Button 
-D7: LED green
-D8: LED yellow
-D9: LED red
+D2: Button
+D3: LED green
+D4: Led yellow
+D5: Led red
+D6: Led Left
+D7: LED Right
+D8: Buzzer
+D9: 
 D10: 모터 드라이버 IN4
 D11: 모터 드라이버 IN3
 D12: 모터 드라이버 IN2
@@ -21,17 +21,14 @@ D18: 지문인식 TXD
 D19: 지문인식 RXD
 D20:
 D21:
-D22:
-D23:
-D24:
-D25:
-D26:
-
+D22: 초음파(F) Trig
+D23: 초음파(F) Echo
+D24: 초음파(B_Left) Trig
+D25: 초음파(B_Left) Echo
+D26: 초음파(B_Right) Trig
+D27: 초음파(B_Right) Echo
+D28: 초음파(B) Trig
+D29: 초음파(B) Echo
 
 [아날로그 입력 핀]
 A0: mq-3
-A1:
-A2:
-A3:
-A4:
-A5:
